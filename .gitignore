@@ -1,0 +1,4 @@
+# Ignora lo siguiente
+bin/Debug/Release/
+NOTE.txt
+.vscode

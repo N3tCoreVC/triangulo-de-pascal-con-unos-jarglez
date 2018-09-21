@@ -1,0 +1,14 @@
+C:\Users\carlos\DriveGoogleRedlab\proyectoCsharp\arbolito\bin\Release\netcoreapp2.1\win10-x64\hostpolicy.dll
+C:\Users\carlos\DriveGoogleRedlab\proyectoCsharp\arbolito\bin\Release\netcoreapp2.1\win10-x64\hostfxr.dll
+C:\Users\carlos\DriveGoogleRedlab\proyectoCsharp\arbolito\bin\Release\netcoreapp2.1\win10-x64\arbolito.exe
+C:\Users\carlos\DriveGoogleRedlab\proyectoCsharp\arbolito\bin\Release\netcoreapp2.1\win10-x64\arbolito.deps.json
+C:\Users\carlos\DriveGoogleRedlab\proyectoCsharp\arbolito\bin\Release\netcoreapp2.1\win10-x64\arbolito.runtimeconfig.json
+C:\Users\carlos\DriveGoogleRedlab\proyectoCsharp\arbolito\bin\Release\netcoreapp2.1\win10-x64\arbolito.runtimeconfig.dev.json
+C:\Users\carlos\DriveGoogleRedlab\proyectoCsharp\arbolito\bin\Release\netcoreapp2.1\win10-x64\arbolito.dll
+C:\Users\carlos\DriveGoogleRedlab\proyectoCsharp\arbolito\bin\Release\netcoreapp2.1\win10-x64\arbolito.pdb
+C:\Users\carlos\DriveGoogleRedlab\proyectoCsharp\arbolito\obj\Release\netcoreapp2.1\win10-x64\arbolito.csprojAssemblyReference.cache
+C:\Users\carlos\DriveGoogleRedlab\proyectoCsharp\arbolito\obj\Release\netcoreapp2.1\win10-x64\arbolito.csproj.CoreCompileInputs.cache
+C:\Users\carlos\DriveGoogleRedlab\proyectoCsharp\arbolito\obj\Release\netcoreapp2.1\win10-x64\arbolito.AssemblyInfoInputs.cache
+C:\Users\carlos\DriveGoogleRedlab\proyectoCsharp\arbolito\obj\Release\netcoreapp2.1\win10-x64\arbolito.AssemblyInfo.cs
+C:\Users\carlos\DriveGoogleRedlab\proyectoCsharp\arbolito\obj\Release\netcoreapp2.1\win10-x64\arbolito.dll
+C:\Users\carlos\DriveGoogleRedlab\proyectoCsharp\arbolito\obj\Release\netcoreapp2.1\win10-x64\arbolito.pdb
